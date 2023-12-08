@@ -1,6 +1,13 @@
 # chat_app_ui_example_v1
 
-A new Flutter project.
+A Simple Chat App UI With Flutter.
+
+
+![image_processing20210111-5956-194yjur](https://github.com/u-sour/chat_app_ui_example_v1/assets/145416126/b3d0de8b-c86d-40bf-942d-d8be89183644)
+Credit: UI Design By [aglowid](https://dribbble.com/shots/14909001-Instant-Messaging-App)
+## Demo
+
+https://github.com/u-sour/chat_app_ui_example_v1/assets/145416126/33e96594-95f3-4a6b-bf8d-a73521a12cf3
 
 ## Getting Started
 
